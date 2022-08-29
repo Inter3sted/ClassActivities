@@ -2,4 +2,4 @@
 
 ## Overview
 
-This is a repository for all class activities.
+This is a repository for all class activities with SavvyCoders.
