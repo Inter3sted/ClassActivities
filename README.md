@@ -1,4 +1,4 @@
-# Savvy Coders Project Boilerplate Starter Kit
+# Savvy Coders Class Activities
 
 ## Overview
 
