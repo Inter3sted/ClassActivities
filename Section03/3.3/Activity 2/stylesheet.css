@@ -1,0 +1,62 @@
+h1,
+h2,
+h3 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    text-align: center;
+}
+
+a:active {
+    color: aquamarine;
+}
+
+a:visited {
+    color: brown;
+}
+
+* {
+    border: 1px chartreuse dashed;
+}
+
+li,
+ol {
+    margin: auto;
+    padding: 50px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width 50%;
+}
+
+img:hover {
+    color: blue;
+}
+
+.zoom {
+    padding: 13px;
+    width: 175px;
+    height: 98.5px;
+    margin: auto;
+}
+
+.zoom:hover {
+    transform: scale(3.7);
+}
+
+a {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    text-align: center;
+    padding: 3px;
+}
+
+h1:first-letter {
+    color: blueviolet;
+}
